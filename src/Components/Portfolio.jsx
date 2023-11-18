@@ -19,9 +19,9 @@ import React from "react";
  * Need an image? Check out https://unsplash.com to download a photo you
  * freely use on your site.
  */
-import image from "../images/design-desk.jpeg";
+import image from "../images/fabio-oyXis2kALVg-unsplash.jpg";
 
-const imageAltText = "desktop with books and laptop";
+const imageAltText = "fabio";
 
 /**
  * Project list
@@ -31,28 +31,22 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Google-Professional-Data-Analysis-Capstone-Project",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "The case study involves a bikeshare company's data of its customer's trip details over a 12 month period (JAN 2021 - SEP. 2022).",
+    url: "https://github.com/david-analytics/Google-Professional-Data-Analysis-Capstone-Project",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Kowope_Mart",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "To develop a predictive model that determines the likelihood of a customer defaulting loan payment. To help Kowope Mart to identify customers who are worthy of credit card, lines and loans by identifying which customers are at risk of defaulting in payment of loan. Packages",
+    url: "https://github.com/david-analytics/Kowope_Mart",
   },
   {
-    title: "My Resume Site",
+    title: "Expresso-Churn-Prediction",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
-  },
-  {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "The objective of this challenge is to develop a machine learning model to predict the likelihood of each Expresso customer “churning,” i.e. becoming inactive and not making any transactions for 90 days.",
+    url: "https://github.com/david-analytics/Expresso-Churn-Prediction",
   },
 ];
 
